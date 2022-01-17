@@ -53,20 +53,13 @@ python manage.py runserver
 
 <table width="100%"> 
 <tr>
-<td width="50%">      
+<td width="100%">      
 &nbsp; 
 <br>
 <p align="center">
-  Feed Home
+  Bot Live On Discord
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+<img src="https://user-images.githubusercontent.com/83446317/149735933-8afd1147-ead6-484c-9c0e-8773b5df8e60.png">
 </td> 
-<td width="50%">
-<br>
-<p align="center">
-  Room Conversation Preview
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
-</td>
-</table>
+
 
