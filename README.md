@@ -15,7 +15,8 @@ git clone https://github.com/harshkedia17/discord_bot.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd DiscordBot
+
 
 ```
 
